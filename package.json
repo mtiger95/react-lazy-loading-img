@@ -1,6 +1,6 @@
 {
   "name": "react-lazy-loading-img",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "single img react component that has loading gif, lazyload characteristic",
   "author": "mtiger95@163.com",
   "license": "ISC",
@@ -17,7 +17,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test", 
+    "test": "react-scripts test",
     "release": "np --no-yarn --no-tests --no-cleanup",
     "eject": "react-scripts eject"
   },
